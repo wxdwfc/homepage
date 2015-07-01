@@ -1,0 +1,10 @@
+{
+    "name": "XingDa Wei",
+    "description": "A music lover.",
+    "version": "0.0.1",
+    "icons": {
+//	"16": "terminal-icon.png",
+//	"128": "terminal-icon.png"
+    },
+    "launch_url": "index.html",
+}
